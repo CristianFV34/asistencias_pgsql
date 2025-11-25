@@ -1,0 +1,28 @@
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Inicial', '3 años', 'Inicial - 3 años', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Inicial', '4 años', 'Inicial - 4 años', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Inicial', '5 años', 'Inicial - 5 años', '', TRUE);
+
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '1er grado', 'Primaria - 1er grado', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '2do grado', 'Primaria - 2do grado', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '3er grado', 'Primaria - 3er grado', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '4to grado', 'Primaria - 4to grado', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '5to grado', 'Primaria - 5to grado', '', TRUE);
+
+INSERT INTO salones (salon_id, grado, seccion, nombre, teacher_uid, activo)
+VALUES (gen_random_uuid(), 'Primaria', '6to grado', 'Primaria - 6to grado', '', TRUE);
+
